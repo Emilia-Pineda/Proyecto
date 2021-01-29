@@ -1,0 +1,6 @@
+PERMISOS PARA ARCHIVOS
+
+Lectura. Permite visualizar contenido.
+Escritura. Permite crear/ eliminar el contenido.
+Escritura. Permite crear/ eliminar contenido y tambien se puede modificar los permisos de los archivos.
+Ejecucion. Permite ejecutar el contenido del archivo.
